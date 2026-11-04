@@ -1,0 +1,15 @@
+# Python 自动生成的缓存
+__pycache__/
+*.py[cod]
+
+# 本地虚拟环境
+.venv/
+
+# macOS 文件
+.DS_Store
+
+# 训练数据和模型文件
+data/
+checkpoints/
+runs/
+.vscode/
